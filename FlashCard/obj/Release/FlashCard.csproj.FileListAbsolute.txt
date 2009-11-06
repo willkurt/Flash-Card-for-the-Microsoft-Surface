@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\bin\Release\Resources\icon.png
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\bin\Release\Resources\iconPreview.png
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\bin\Release\FlashCard.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\SurfaceWindow1.baml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\App.baml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\SurfaceWindow1.g.cs
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\App.g.cs
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\FlashCard_Content.g.cs
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\FlashCard_MarkupCompile.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\FlashCard.g.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\FlashCard.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\FlashCard.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\FlashCard\FlashCard\obj\Release\FlashCard.exe

@@ -1,0 +1,19 @@
+﻿<s:SurfaceWindow x:Class="FlashCard.SurfaceWindow1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:s="http://schemas.microsoft.com/surface/2008"
+    Title="FlashCard"
+    >
+  <s:SurfaceWindow.Resources>
+    <ImageBrush x:Key="WindowBackground" Stretch="None" Opacity="0.6" ImageSource="pack://application:,,,/Resources/WindowBackground.jpg"/>
+  <ImageBrush x:Key="SVBackground" Stretch="UniformToFill" Opacity="0.4" ImageSource="pack://application:,,,/Resources/svBackground.jpg" />
+  </s:SurfaceWindow.Resources>
+
+
+        <Grid Background="{StaticResource WindowBackground}" Height="768" Width="1024">
+            <s:ScatterView Margin="24,32,44,68" Name="scatterView1" Background="{StaticResource SVBackground}" s:Contacts.ContactDown="checkAndAddModel">
+
+            </s:ScatterView>
+
+    </Grid>
+</s:SurfaceWindow>
